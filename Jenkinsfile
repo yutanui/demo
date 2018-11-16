@@ -1,7 +1,7 @@
 pipeline {
     agent none
     environment {
-        imageName = 'nootiew/demo'
+        imageName = 'yutanui/demo'
         port = 80
     }
 
